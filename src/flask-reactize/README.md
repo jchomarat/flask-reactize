@@ -1,5 +1,7 @@
 # Project description
 
+![PyPI](https://img.shields.io/pypi/v/flask-reactize)
+
 *flask-reactize* is a boostrap to serve any [React JS](https://reactjs.org/) application via a Python back-end, using [Flask](https://flask.palletsprojects.com/en/2.0.x/) as web framework. 
 
 Your back-end web server can be anything: [Flask](https://flask.palletsprojects.com/en/2.0.x/) itself (not recommended though for production), [Uvicorn](https://www.uvicorn.org/), [Gunicorn](https://gunicorn.org/) etc.
