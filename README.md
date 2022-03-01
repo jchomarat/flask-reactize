@@ -92,6 +92,14 @@ You can now open your browser and load the url [http://localhost:8080](http://lo
 
 Ok, you want to do everything by yourself, no worries I got you covered!
 
-**Please note** that you need to be on a *nix system for that, whether you are on Linux, Mac or Windows for [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
+**Please note** that you need to be on a *nix system for that, whether you are on Linux, Mac or Windows with [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 Instructions to follow can be found [here](./src/flask-reactize/README.md)!
+
+## Deploy to Azure
+
+Either way, both methods can be deployed to Azure
+
+1. Using [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?tabs=dotnet&pivots=container-linux),
+2. Using a [Web App](https://docs.microsoft.com/en-US/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-portal%2Cterminal-bash%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cdeploy-instructions-zip-azcli),
+3. Using [Azure Kubernetes Service](https://azure.microsoft.com/en-us/services/kubernetes-service/#overview) in a multi-scalable containers scenario.
