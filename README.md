@@ -1,5 +1,7 @@
 # flask-reactize
 
+[![PyPI version](https://badge.fury.io/py/flask-reactize.svg)](https://badge.fury.io/py/flask-reactize)
+
 ## Purpose
 
 Developing a ReactJS application requires to use nodejs as back end server.
