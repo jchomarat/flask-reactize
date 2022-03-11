@@ -1,3 +1,12 @@
+
+THE REPOSITORY HAS BEEN MOVED TO [AZURE-SAMPLES](https://github.com/Azure-Samples/flask-reactize)
+
+This one will not be maintained and will be closed.
+
+Thank you
+
+------------------------------------------------------------------------------------------------------------------
+
 # flask-reactize
 
 [![PyPI version](https://badge.fury.io/py/flask-reactize.svg)](https://badge.fury.io/py/flask-reactize)
